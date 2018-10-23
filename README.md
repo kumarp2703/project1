@@ -1,5 +1,3 @@
 # project1
 1st project
-kumar patrick
-vishal 
-
+kumar studies in ruparel college.
